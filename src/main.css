@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding-top: 120px;
+  background-image: url('./assets/background.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-attachment: fixed;
+}
+
+.jumbotron {
+  background-color: #e0e0e0aa;
+}
+
+#div-form {
+  margin-top: 260px;
+}
+
+.img-thumbnail {
+  margin-bottom: 20px;
+}
+
+#main-title {
+  text-shadow: 1px 1px 1px #000a;
+}
